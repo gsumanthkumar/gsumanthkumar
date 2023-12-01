@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
-- 💬 Ask me about **Python, Django, Django Rest Framework**
+- 💬 Ask me about **Anything**, Happy to Help.
 
 - 📫 How to reach me **sumanthgopineti@gmail.com**
 
