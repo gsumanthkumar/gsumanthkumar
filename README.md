@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Django, Django Rest Framework**
 
-- 📫 How to reach me **gsumanth2000@gmail.com**
+- 📫 How to reach me **sumanthgopineti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
