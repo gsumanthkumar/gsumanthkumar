@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Django Rest Framework**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **FASTAPI**
 
 - 👯 I’m looking to collaborate on **Django Projects**
 
